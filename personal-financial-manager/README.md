@@ -18,7 +18,6 @@ Personal Finance Manager is a web application that allows users to manage their 
   - React Router (for routing)
   - Chart.js (for displaying charts)
   - Tailwind CSS (for styling)
-  - React Spinners (for loading indicators)
 
 - **Backend**:
 

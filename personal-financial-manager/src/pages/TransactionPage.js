@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import TransactionForm from '../components/TransactionFrom';
 import TransactionList from '../components/TransactionList';
-import { getTransactions, deleteTransaction } from '../services/api';
+import { deleteTransaction } from '../services/api';
 
 const TransactionPage = () => {
   const [transactions, setTransactions] = useState([]);
